@@ -475,9 +475,9 @@ Worked on collaborative Machine Learning repositories following professional sof
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yug-Katyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yug-Katyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yug-Katyal&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Yug-Katyal&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -485,17 +485,15 @@ Worked on collaborative Machine Learning repositories following professional sof
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-Katyal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-Katyal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 # GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yug-Katyal&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yug-Katyal&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -511,28 +509,6 @@ Worked on collaborative Machine Learning repositories following professional sof
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Yug-Katyal/Yug-Katyal/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Yug-Katyal/Yug-Katyal/output/github-contribution-grid-snake.svg">
-
-<img alt="github contribution snake"
-src="https://raw.githubusercontent.com/Yug-Katyal/Yug-Katyal/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
-
----
 
 # Current Focus
 
