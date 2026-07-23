@@ -42,6 +42,16 @@ Alongside industry experience, I actively contribute to **open source** through 
 I enjoy designing complete AI systems—from data collection and annotation to model development, optimization, deployment, and production monitoring.
 
 ---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Yug-Katyal/Yug-Katyal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Yug-Katyal/Yug-Katyal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 # Open To
 
