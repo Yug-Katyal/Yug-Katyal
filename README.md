@@ -27,7 +27,7 @@
 
 </div>
 
----
+
 
 # About Me
 
@@ -41,7 +41,7 @@ Alongside industry experience, I actively contribute to **open source** through 
 
 I enjoy designing complete AI systems—from data collection and annotation to model development, optimization, deployment, and production monitoring.
 
----
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -65,7 +65,7 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 | Research Opportunities | ✅ |
 | Generative AI Projects | ✅ |
 
----
+
 
 # Tech Stack
 
@@ -77,7 +77,7 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 </p>
 
----
+
 
 ## AI / Machine Learning
 
@@ -103,7 +103,7 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 </p>
 
----
+
 
 ## Frontend
 
@@ -113,7 +113,6 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 </p>
 
----
 
 ## Backend
 
@@ -123,7 +122,6 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 </p>
 
----
 
 ## Databases & Tools
 
@@ -145,7 +143,6 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 </p>
 
----
 
 # AI / ML Expertise
 
@@ -162,13 +159,11 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 | Data Annotation | █████████ | CVAT, LabelImg |
 | Production AI Systems | ███████ | Enterprise Video Intelligence |
 
----
 
 # Engineering Philosophy
 
 > *"Build AI systems that are accurate, explainable, scalable, and production-ready—not just models that perform well on benchmark datasets."*
 
----
 
 # Achievements
 
@@ -195,8 +190,6 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 </div>
 
-
----
 
 # Contribution Activity
 
@@ -237,7 +230,6 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 </div>
 
----
 
 <div align="center">
 
@@ -246,64 +238,7 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312E81,35:4F46E5,70:7C3AED,100:8B5CF6"/>
 
 </div>
----
 
-
-# Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Yug-Katyal">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yug-Katyal&repo=Movie-Recommender-System&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/Yug-Katyal">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yug-Katyal&repo=Face-Mask-Detection&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Yug-Katyal">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yug-Katyal&repo=Heat-Stroke-Risk-Prediction&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/Yug-Katyal">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yug-Katyal&repo=Water-Potability-Prediction&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Yug-Katyal">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yug-Katyal&repo=Irrigation-Prediction&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/Yug-Katyal">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yug-Katyal&repo=Driver-Drowsiness-Detection&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
----
 
 <div align="center">
 
