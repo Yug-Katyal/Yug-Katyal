@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<a href="https://yug-katyal.github.io/Portfolio/">
+<a href="https://yugkatyal-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 
