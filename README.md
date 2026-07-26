@@ -69,77 +69,9 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 # Tech Stack
 
-## Languages
-
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js"/>
-
-</p>
-
-
-
-## AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
-
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-
-</p>
-
-
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-</p>
-
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-</p>
-
-
-## Databases & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,bash,kubernetes"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
-
-<img src="https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js"/><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/><img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/><img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/><img src="https://skillicons.dev/icons?i=html,css,js"/><img src="https://skillicons.dev/icons?i=fastapi"/><img src="https://skillicons.dev/icons?i=git,github,docker,bash,kubernetes"/><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/><img src="https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge"/>
 
 </p>
 
@@ -222,7 +154,7 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 
 </a>
 
-<a href="https://yug-katyal.github.io/Portfolio/">
+<a href="https://yugkatyal-portfolio.vercel.app">
 
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
