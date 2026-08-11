@@ -113,16 +113,6 @@ I enjoy designing complete AI systems—from data collection and annotation to m
 </div>
 
 
-# GitHub Analytics
-
-<div align="center">
-
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Yug-Katyal&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
 # Contribution Activity
 
 <div align="center">
